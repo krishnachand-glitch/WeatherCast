@@ -16,3 +16,5 @@ _deploy.zip
 # OS generated files
 Thumbs.db
 .DS_Store
+
+push_to_github.bat
