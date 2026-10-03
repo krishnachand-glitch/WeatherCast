@@ -1,0 +1,18 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Deployment packages
+_deploy.zip
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+Thumbs.db
+.DS_Store
